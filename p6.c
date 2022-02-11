@@ -102,7 +102,6 @@ int main() {
 				printf("Noi\n");
 		}
 	}
-	printf("Goodbye\n");
 }
 
 void traverse (Node* node) {
